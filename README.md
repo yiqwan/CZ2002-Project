@@ -1,12 +1,19 @@
-### Overview
+# Restaurant Reservation and Point of Sale System (RRPSS)
 
-This is a project done for NTU CZ2002 object-oriented design and programming. 
-There are 5 people in the group who contributed
-to this project.
+Contributors: Yi Qwan, Joshua, Sze Chong, Peilin, Minh
+
+Github accounts: yiqwan, chanjuanyin, -, -, -
 
 ---
 
-### File navigation
+### **Overview**
+
+This is a project done for NTU CZ2002 object-oriented design and programming. 
+Here's the [demo video](https://youtu.be/Srp23VuX6iU) for the project.
+
+---
+
+### **File navigation**
 
 - "CZ2002 project report.docs" contains all the design considerations, UML diagrams, demo video youtube link and so on.
 
