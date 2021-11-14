@@ -2,7 +2,7 @@
 
 Contributors: Yi Qwan, Joshua, Sze Chong, Peilin, Minh
 
-Github accounts: yiqwan, chanjuanyin, -, -, -
+Github accounts: @yiqwan, @chanjuanyin, @Opilop, @chen1411, -
 
 ---
 
