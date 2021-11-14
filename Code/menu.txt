@@ -1,0 +1,15 @@
+MainCourse#Pepperoni Pizza#Pineapple, Beef#8.3
+MainCourse#Hawaiian Pizza#Ham, Pineapple#8.0
+MainCourse#Meatty Pizza#Ham, Beef, Bacon#9.0
+MainCourse#Cheesy Pizza#Plain Pizza#7.0
+PromotionalItem#Kid's Meal#Small Pasta with Meatballs#5.0
+PromotionalItem#Personal Set#Cheesy pizza, coke#8.3
+PromotionalItem#Family Set#2 Pizza, 2 Milo#17.8
+Dessert#Choco Cake#Chocolate from France#4.0
+Dessert#Tiramisu#Coffee and Cream#4.0
+Drink#Milo Dinosaur#Cold#6.9
+Drink#Milo Ant#Plain iced Milo#2.3
+Drink#Coke#Chilled Can of Coca-Cola#2.0
+Drink#Milkshake#Vanilla Flavour#4.0
+MainCourse#Cheeseburger#Juicy Beef Patty with Cheese#4.5
+PromotionalItem#Frog Legs Pizza#Fusion style pizza#8.0
